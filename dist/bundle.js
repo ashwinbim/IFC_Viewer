@@ -7,7 +7,7 @@ const projects = [
     {
         name: "2",
         id: "2",
-        url: "https://ftp.jfag.in/0:/01.ifc"
+        url: "/ifc/01.ifc"
     },
     {
         name: "3",
