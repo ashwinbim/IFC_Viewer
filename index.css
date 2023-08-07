@@ -98,43 +98,43 @@ h1 {
 }
 
 .img-1 {
-    background-image: .\download;
+    background-image:./download;
     background-size: cover;
     background-position: center;
 }
 
 .img-2 {
-    background-image: .\download;
-    background-size: cover;
-    background-position: center;
-}
-
-.img-3 {
     background-image:.\download;
     background-size: cover;
     background-position: center;
 }
 
+.img-3 {
+    background-image:./download;
+    background-size: cover;
+    background-position: center;
+}
+
 .img-4 {
-    background-image: .\download;
+    background-image:./download;
     background-size: cover;
     background-position: center;
 }
 
 .img-5 {
-    background-image: .\download;
+    background-image:./download;
     background-size: cover;
     background-position: center;
 }
 
 .img-6 {
-    background-image: .\download;
+    background-image:./download;
     background-size: cover;
     background-position: center;
 }
 
 .img-7 {
-    background-image: .\download;
+    background-image:./download;
     background-size: cover;
     background-position: center;
 }
