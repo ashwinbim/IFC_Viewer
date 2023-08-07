@@ -98,43 +98,43 @@ h1 {
 }
 
 .img-1 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2020/10/dudelange_001.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-2 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2020/10/thedomes_007.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-3 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2020/10/bastogne_warmuseum_001.jpg);
+    background-image:.\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-4 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2020/10/merl_02.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-5 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2020/10/tabledemaxime_001.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-6 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2022/04/2-scaled.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
 
 .img-7 {
-    background-image: url(https://www.sia-arch.eu/wp-content/uploads/2022/05/Jambes-0097-Au-Fil-de-lEau-3D-005-scaled.jpg);
+    background-image: .\download;
     background-size: cover;
     background-position: center;
 }
